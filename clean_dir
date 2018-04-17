@@ -1,0 +1,17 @@
+#bin/bash
+rm -rf s*alpha*
+rm *.prj
+rm run_*.sh
+rm *_main.c
+rm *.ctf
+rm *_data.c
+rm -rf *_mcr
+rm *.asv
+rm *~
+rm *.dat
+rm *.txt
+rm *.mat
+rm *.log
+rm -rf alpha*
+rm *.out
+rm VMPS_SB_OBB 
